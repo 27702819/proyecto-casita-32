@@ -1,0 +1,45 @@
+h2 {
+    background-color: tomato;
+}
+ 
+@media (min-width: 768px) {
+    .bg {
+        background-color: pink;
+    }
+    h2 {
+        text-align: center;
+        background-color: aquamarine;
+    }
+
+}
+
+.border {
+    background-color: blue;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+}
+
+.border1 {
+    color: rgb(111, 119, 119);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(23, 119, 87);
+    margin: 300px;
+
+}
+
+.hstack {
+    background-color: aquamarine;
+    color: blueviolet;
+    text-align: center;
+}
+
+.vstack {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+
